@@ -23,15 +23,15 @@ The Natural Language Processing models are coded using the following libraries: 
 The sections consist of: Machine Learning, Deep Learning, Computer Vision, Artificial Intelligence, Natural Language Processing. These are split into multiple subsections that link to wiki pages for further information.
 
 ### Machine Learning
-* [Data Preprocessing](https://github.com/Achronus/Machine-Learning-101/wiki/Data-Preprocessing)
-* [Regression Models](https://github.com/Achronus/Machine-Learning-101/wiki/Regression-Models)
-* [Classification Models](https://github.com/Achronus/Machine-Learning-101/wiki/Classification-Models)
-* [Clustering Models](https://github.com/Achronus/Machine-Learning-101/wiki/Clustering-Models)
-* [Association Rule Learning](https://github.com/Achronus/Machine-Learning-101/wiki/Association-Rule-Learning)
-* [Reinforcement Learning](https://github.com/Achronus/Machine-Learning-101/wiki/Reinforcement-Learning)
-* [Dimensionality Reduction](https://github.com/Achronus/Machine-Learning-101/wiki/Dimensionality-Reduction)
-* [Model Selection](https://github.com/Achronus/Machine-Learning-101/wiki/Model-Selection)
-* [XGBoost](https://github.com/Achronus/Machine-Learning-101/wiki/XGBoost)
+* [Data Preprocessing](https://github.com/tokenflow/Machine-Learning-101/wiki/Data-Preprocessing)
+* [Regression Models](https://github.com/tokenflow/Machine-Learning-101/wiki/Regression-Models)
+* [Classification Models](https://github.com/tokenflow/Machine-Learning-101/wiki/Classification-Models)
+* [Clustering Models](https://github.com/tokenflow/Machine-Learning-101/wiki/Clustering-Models)
+* [Association Rule Learning](https://github.com/tokenflow/Machine-Learning-101/wiki/Association-Rule-Learning)
+* [Reinforcement Learning](https://github.com/tokenflow/Machine-Learning-101/wiki/Reinforcement-Learning)
+* [Dimensionality Reduction](https://github.com/tokenflow/Machine-Learning-101/wiki/Dimensionality-Reduction)
+* [Model Selection](https://github.com/tokenflow/Machine-Learning-101/wiki/Model-Selection)
+* [XGBoost](https://github.com/tokenflow/Machine-Learning-101/wiki/XGBoost)
 
 ### Deep Learning
 * [Supervised Deep Learning Models](https://github.com/Achronus/Machine-Learning-101/wiki/Types-of-Deep-Learning)
